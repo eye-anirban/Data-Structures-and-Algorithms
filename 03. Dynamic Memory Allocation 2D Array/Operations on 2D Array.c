@@ -1,3 +1,4 @@
+#include <stdio.h>
 
 int nz_643 (int **p, int n)
 {
