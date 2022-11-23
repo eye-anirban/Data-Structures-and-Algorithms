@@ -17,7 +17,7 @@ int main()
         sum = sum + *(p_643 + i);
     }
     
-    printf("\nElemets of the array are:\n");
+    printf("\nElements of the array are:\n");
     for(i=0;i<n;i++)
 	{
 	 	printf("%d ", *(p_643+i));
